@@ -27,7 +27,7 @@ import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart'
 
 const fetchData = () => {
   return axios
-    .get(`https://hpap.herokuapp.com/api`)
+    .get(`https://hpap.herokuapp.com`)
     .then((response) => response.data);
 };
 
