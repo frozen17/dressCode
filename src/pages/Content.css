@@ -1,0 +1,78 @@
+.Content-main {
+    width: 80%;
+    margin: 0 auto;
+}
+.forher{
+    width: 170px;
+}
+.Link {
+    color: black;
+    text-decoration: none;
+    width: 120px;
+    text-decoration: none;
+    padding: 5px 15px;
+}
+.AllContent{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+.AllContentTwo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap-reverse;
+    margin-bottom: 30px;
+}
+.AllContentThree {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap-reverse;
+    margin-bottom: 30px;
+}
+.bgImg{
+    width: 70%;
+}
+.content{
+    width: 25%;
+    text-align: center;
+}
+.Img-adapt {
+    width: 100%;
+}   
+button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.Button.css-1rwt2y5-MuiButtonBase-root-MuiButton-root{
+    border: 1px solid black;
+    margin: 15px 15px ;
+}
+.line{
+    display: none;
+}
+
+
+
+@media (max-width: 850px){
+    .bgImg{
+        width: 100%;
+    }
+    .content{
+        width: 80%;
+    }
+    /* .line{
+        display: block;
+        margin: 50px 0;
+    } */
+}
+
+@media (max-width: 480px) {
+    .AllContent{
+        height: 60vh;
+    }
+    .content{
+        width: 100%;
+
+    }
+
+}

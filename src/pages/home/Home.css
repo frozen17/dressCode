@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+} 
+.navbar-links {
+    text-align: center;
+}
+.All-content{
+    margin: 30px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+
+}
+.home-bcc-img{
+    width: 100%;
+}
+.main-img{
+    width: 100%;
+    height: 70vh;
+}
+.links{
+    padding: 20px 20px;
+    text-decoration: none;
+    color: black;
+    letter-spacing: .1rem;
+    border-bottom: solid transparent;
+    font-family: AktivGrotesk-Medium;
+}
+.home-front{
+    position: absolute;
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+}
+.just-link{
+    height: 30px;
+    font-style: 100%;
+    background-color: #413a3a;
+}   
+.home-bcc-img{
+    width: 100%;
+
+}
+.home-brand{
+    width: 440px;
+    color: #fff;
+}
+.showWomen{
+    font-size: 30px;
+    color: rgb(255,255, 255);
+    line-height: 1.2em;
+    margin: 0px 0 40px 0;
+    text-transform: uppercase;
+}
+.showEnjoy{
+    width: 100%;
+    text-decoration: none;
+    padding: 10px 15px;
+    color: #fff;
+}
+.Button{
+    color: white;
+    border-color: black;
+}
+.Button:hover {
+    background-color: white;
+    color: black;
+}
+
+
+
+
+@media (max-width: 1000px){
+    .home-brand {
+        width: 350px;
+    }
+    .showWomen{
+        font-style: 15px;
+    }
+
+}
+
+
+@media (max-width : 480px) {
+    .home-main{
+        height: 40vh;
+        margin-bottom: 100%;
+    }
+    .home-bcc-img{
+        width: 100%;
+    
+    }
+    .All-content{
+        height: 50vh;
+        margin: 20% 0;
+        text-align: center;
+    }
+    .main-img{
+        width: 100%;
+        height: 50vh;
+    }
+    .home-brand{
+        width: 250px
+    }
+    .home-front{
+        width: 80%;
+        text-align: center;
+        margin: 0 auto;
+    }
+}

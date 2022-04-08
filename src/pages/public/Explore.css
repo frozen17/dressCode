@@ -1,0 +1,38 @@
+.postName{
+    /* font-family: var(--theme-font-family); */
+    font-size: 1.25rem;
+    letter-spacing: .09375rem;
+}
+.postPrice{
+    font-family: AktivGrotesk-Bold;
+    font-size: .875rem;
+}
+.descr-text{
+    font-family: AktivGrotesk-Medium;
+    letter-spacing: .09375rem;
+    font-size: large;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+}
+.description{
+    font-family: AktivGrotesk-Regular;
+    font-size: 17px;
+}
+.composition-text{
+    font-family: AktivGrotesk-Medium;
+    letter-spacing: .09375rem;
+    font-size: large;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+}
+.composition{
+    font-family: AktivGrotesk-Regular;
+    font-size: 17px;
+    letter-spacing: .0125rem;
+    line-height: 1.3;
+}
+.btn-center{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}

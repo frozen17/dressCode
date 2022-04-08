@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.Title{
+    text-align: center;
+    margin: 30px 0;
+    font-size: 1.622rem;
+    letter-spacing: .25rem;
+    line-height: 1.2;
+}
+.Card-item{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.clothes{
+    margin: 0;
+}
+.navigation {
+    text-decoration: none;
+    color: black;
+    opacity: 0.7;
+}
+.navigationMain{
+    text-decoration: none;
+    color: black;
+}
+
+

@@ -1,0 +1,75 @@
+.SideBar{
+    width: 30%;
+    height: 80vh;
+    background-color: #f6f6f6;
+    padding: 10px 10px;
+}
+.shopsIn{
+    font-size: 15px;
+}
+.location{
+    display: flex;
+    align-items: center;
+    margin: 10px 0  30px 0;
+}
+.line{
+    width: 80%;
+    height: 2px;
+    margin: 15px 0;
+}
+svg{
+   font-size: small;
+}
+.icons{ 
+    display: flex;
+    justify-content: space-around; 
+}
+.emailAdress{
+    width: 100%;
+}
+.side-gender {
+    margin: 20px 0 0 0;
+}
+.required{
+    color: black;
+    opacity: 0.8;
+    margin: 20px 0;
+}
+.sideTitle{
+    font-size: 13px;
+    opacity: 0.9;
+
+}
+.title{
+    font-size: 15px;
+    text-align: left;
+    font-family: AktivGrotesk-Medium;
+    text-transform: uppercase;
+}
+.thankspage{
+    text-align: center;
+    margin: 40px 0;
+    font-family: AktivGrotesk-Medium;
+}
+.thanksforSub{
+    font-family: AktivGrotesk-Medium;
+}
+
+
+
+@media (max-width: 900px) {
+    .SideBar{
+        width: 50%;
+        text-align: center;
+        height: 60vh;
+    } 
+}
+
+
+@media (max-width: 480px) {
+    .SideBar{
+        width: 100%;
+        text-align: center;
+        height: 60vh;
+    } 
+}

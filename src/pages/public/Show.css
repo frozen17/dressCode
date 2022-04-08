@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Link {
+    text-decoration: none;
+}
+.show {
+    text-align: center;
+    width: 100%;
+}
+.showPageImg{
+    width: 50%;
+    height: 50%;
+}
+.oneImg{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.showPageTitle {
+    width: 45%;
+}
+.twoImg{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.threeImg{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.showText{
+    font-family: "Acta Display W01 Book";
+}
+.showDescr{
+    font-size: 15px;
+    line-height: 1.35em;
+    font-family: "AktivGrotesk-Regular" !important;
+    letter-spacing: .05em;
+}
+
+
+
+@media (max-width: 700px) {
+    .oneImg{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}

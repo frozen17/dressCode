@@ -1,0 +1,35 @@
+.register {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.allPlus{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.form-register{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 35px auto;
+    text-align: center;
+}
+.inputText{
+    width: 35%;
+    margin: 15px 15px;  
+}
+.registrBtn{
+    width: 30%;
+    text-align: center;
+    margin: 50px 0;
+    background-color: black;
+}
+.reg-secure{
+    margin: 15px 0;
+}

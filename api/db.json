@@ -1,0 +1,1094 @@
+{
+  "items": [
+    {
+      "name": "Жаккардовая рубашка в клетку из вискозы",
+      "description": "Короткий жакет из вискозы/льна с принтом в клетку Глен и двухцветной окантовкой. Этот фасон отличается уникальными слегка пышными рукавами три четверти, которые придают изысканный и женственный вид любому повседневному образу.",
+      "price": "1500с",
+      "composition": "Состав 100 % Кашемир, Складка спереди, Мягкий внутренний эластичный пояс, Два боковых прорезных кармана, Сделано в Италии",
+      "url": "/assets/img/modelOne.jpeg",
+      "urlOne": "/assets/img/modelTwo.jpeg",
+      "urlTwo": "/assets/img/modelThree.jpeg",
+      "isLiked": 0,
+      "isBasket": true,
+      "id": 1
+    },
+    {
+      "name": "Рубашка из двойного шелкового атласа",
+      "description": "Изысканный жакет из жаккардового джерси с уникальными деталями с эффектом рафии, создающими эффектный образ. Пиджак с заостренными лацканами и однобортной застежкой на одну пуговицу дополнен небольшим нагрудным платком из шелковой органзы, идеально подходящим для придания изысканности многочисленным нарядам.",
+      "price": "1400с",
+      "composition": "Состав 100 % Кашемир, Складка спереди, Мягкий внутренний эластичный пояс, Два боковых прорезных кармана, Сделано в Италии",
+      "url": "/assets/img/shirt.jpg",
+      "urlOne": "/assets/img/shirtOne.jpg",
+      "urlTwo": "/assets/img/shirtTwo.jpg",
+      "isLiked": 1,
+      "isBasket": true,
+      "id": 2
+    },
+    {
+      "name": "Рубашка из хлопкового поплина, шелкового атласа",
+      "description": "Короткий жакет из вискозы/льна с принтом в клетку Глен и двухцветной окантовкой. Этот фасон отличается уникальными слегка пышными рукавами три четверти, которые придают изысканный и женственный вид любому повседневному образу.",
+      "price": "1350с",
+      "composition": "Состав 100 % Кашемир, Складка спереди, Мягкий внутренний эластичный пояс, Два боковых прорезных кармана, Сделано в Италии",
+      "url": "/assets/img/white.jpg",
+      "urlOne": "/assets/img/whiteOne.jpg",
+      "urlTwo": "/assets/img/whiteTwo.jpg",
+      "isLiked": 1,
+      "isBasket": true,
+      "id": 3
+    },
+    {
+      "name": "Джемпер из вискозы с длинными рукавами",
+      "description": "Изысканный жакет из жаккардового джерси с уникальными деталями с эффектом рафии, создающими эффектный образ. Пиджак с заостренными лацканами и однобортной застежкой на одну пуговицу дополнен небольшим нагрудным платком из шелковой органзы, идеально подходящим для придания изысканности многочисленным нарядам.",
+      "price": "1220с",
+      "composition": "Состав 100 % Кашемир, Складка спереди, Мягкий внутренний эластичный пояс, Два боковых прорезных кармана, Сделано в Италии",
+      "url": "/assets/img/set.jpg",
+      "urlOne": "/assets/img/setOne.jpg",
+      "urlTwo": "/assets/img/setTwo.jpg",
+      "urlThree": "/assets/img/setThree.jpg",
+      "urlFour": "/assets/img/setFour.jpg",
+      "isLiked": 0,
+      "isBasket": false,
+      "id": 4
+    },
+    {
+      "name": "Струящиеся брюки из чистого кашемира.",
+      "description": "Короткий жакет из вискозы/льна с принтом в клетку Глен и двухцветной окантовкой. Этот фасон отличается уникальными слегка пышными рукавами три четверти, которые придают изысканный и женственный вид любому повседневному образу.",
+      "price": "1199с",
+      "composition": "Состав 100 % Кашемир, Складка спереди, Мягкий внутренний эластичный пояс, Два боковых прорезных кармана, Сделано в Италии",
+      "url": "/assets/img/setShirt.jpg",
+      "urlOne": "/assets/img/setShirtOne.jpg",
+      "urlTwo": "/assets/img/setShirtTwo.jpg",
+      "urlThree": "/assets/img/setShirtThree.jpg",
+      "isLiked": 0,
+      "isBasket": true,
+      "id": 5
+    },
+    {
+      "name": "ДСтруящиеся брюки из крепдешина, шелкового атласа",
+      "description": "Эти брюки из технического хлопка отличаются свободным кроем. Широкие боковые разрезы делают их похожими на юбку, а однотонный плетеный пояс придает спортивный вид. Этот свежий, универсальный стиль прекрасно дополняет летние наряды.",
+      "price": "1330с",
+      "composition": "Состав 73 % хлопок 27 % полиэстер, Широкий вырез на щиколотках, Широкий ремень и фигурные шлевки, Слегка асимметричная лицевая планка с застежкой -молнией, Два прорезных кармана, Длинные перекрывающиеся боковые разрезы, Сделано в Италии",
+      "url": "/assets/img/kilot.jpg",
+      "urlOne": "/assets/img/kilotOn.jpg",
+      "urlTwo": "/assets/img/kilotTwo.jpg",
+      "isLiked": 0,
+      "isBasket": true,
+      "id": 6
+    },
+    {
+      "name": "Блуза из вискозного бархата и шелка, шелкового атласа",
+      "description": "Изысканный жакет из жаккардового джерси с уникальными деталями с эффектом рафии, создающими эффектный образ. Пиджак с заостренными лацканами и однобортной застежкой на одну пуговицу дополнен небольшим нагрудным платком из шелковой органзы, идеально подходящим для придания изысканности многочисленным нарядам.",
+      "price": "1280с",
+      "composition": "Состав 100 % Кашемир, Складка спереди, Мягкий внутренний эластичный пояс, Два боковых прорезных кармана, Сделано в Италии",
+      "url": "/assets/img/pants.jpg",
+      "urlOne": "/assets/img/pantsOne.jpg",
+      "urlTwo": "/assets/img/pantsTwo.jpg",
+      "isBasket": false,
+      "isLiked": 0,
+      "id": 7
+    },
+    {
+      "name": "Свитер из чистого кашемира с высоким воротником",
+      "description": "Струящаяся облегающая блуза без рукавов из марокканского шелка. Изделие имеет драпированный вырез и боковую застежку. Он идеален в изысканных, элегантных дневных образах, если носить его со струящейся юбкой или брюками.",
+      "price": "1560с",
+      "composition": "Состав 100 % Кашемир, Складка спереди, Мягкий внутренний эластичный пояс, Два боковых прорезных кармана, Сделано в Италии",
+      "url": "/assets/img/vilvet.jpg",
+      "urlOne": "/assets/img/vilvetOne.jpg",
+      "urlTwo": "/assets/img/vilvetTwo.jpg",
+      "isLiked": 0,
+      "isBasket": true,
+      "id": 8
+    },
+    {
+      "name": "Свитер из чистого кашемира с высоким воротником",
+      "description": "Изысканный жакет из жаккардового джерси с уникальными деталями с эффектом рафии, создающими эффектный образ. Пиджак с заостренными лацканами и однобортной застежкой на одну пуговицу дополнен небольшим нагрудным платком из шелковой органзы, идеально подходящим для придания изысканности многочисленным нарядам.",
+      "price": "1450с",
+      "composition": "Состав 100 % Кашемир, Складка спереди, Мягкий внутренний эластичный пояс, Два боковых прорезных кармана, Сделано в Италии",
+      "url": "/assets/img/newColl.jpg",
+      "urlOne": "/assets/img/newCollOne.jpg",
+      "urlTwo": "/assets/img/newCollTwo.jpg",
+      "isBasket": false,
+      "isLiked": 0,
+      "id": 9
+    },
+    {
+      "name": "Свитер из чистого кашемира с высоким воротником",
+      "description": "Струящаяся облегающая блуза без рукавов из марокканского шелка. Изделие имеет драпированный вырез и боковую застежку. Он идеален в изысканных, элегантных дневных образах, если носить его со струящейся юбкой или брюками.",
+      "price": "1340с",
+      "composition": "Состав 100%, Вискоза, Однобортный пиджак на одной пуговице, Заостренные лацканы Застежка на пуговицы, Два накладных кармана, На подкладке Длина: 68 см, Сделано в Италии",
+      "url": "/assets/img/chain.jpg",
+      "urlOne": "/assets/img/chainOne.jpg",
+      "urlTwo": "/assets/img/chainTwo.jpg",
+      "isBasket": false,
+      "isLiked": 0,
+      "id": 10
+    },
+    {
+      "name": "Свитер из чистого кашемира с высоким воротником",
+      "description": "Струящаяся облегающая блуза без рукавов из марокканского шелка. Изделие имеет драпированный вырез и боковую застежку. Он идеален в изысканных, элегантных дневных образах, если носить его со струящейся юбкой или брюками.",
+      "price": "1340с",
+      "composition": "Состав 100%, Вискоза, Однобортный пиджак на одной пуговице, Заостренные лацканы Застежка на пуговицы, Два накладных кармана, На подкладке Длина: 68 см, Сделано в Италии",
+      "url": "/assets/img/www.jpg",
+      "urlOne": "/assets/img/wwwOne.jpg",
+      "urlTwo": "/assets/img/wwwTwo.jpg",
+      "isBasket": false,
+      "isLiked": 0,
+      "id": 11
+    },
+    {
+      "name": "Свитер из чистого кашемира с высоким воротником",
+      "description": "Короткий жакет из вискозы/льна с принтом в клетку Глен и двухцветной окантовкой. Этот фасон отличается уникальными слегка пышными рукавами три четверти, которые придают изысканный и женственный вид любому повседневному образу.",
+      "price": "2340с",
+      "composition": "Состав 100%, Вискоза, Однобортный пиджак на одной пуговице, Заостренные лацканы Застежка на пуговицы, Два накладных кармана, На подкладке Длина: 68 см, Сделано в Италии",
+      "url": "/assets/img/qqq.jpg",
+      "urlOne": "/assets/img/qqqOne.jpg",
+      "urlTwo": "/assets/img/qqqTwo.jpg",
+      "isBasket": false,
+      "isLiked": 0,
+      "id": 12
+    },
+    {
+      "name": "Свитер из чистого кашемира с высоким воротником",
+      "description": "Струящиеся брюки из шелкового крепона с эластичным поясом и небольшими сборками по линии талии. Подчеркнутые однотонными горизонтальными атласными полосками, они создают сияющий, утонченный завершенный образ, если носить их с блузкой из соответствующей ткани.",
+      "price": "3340с",
+      "composition": "Состав 100%, Вискоза, Однобортный пиджак на одной пуговице, Заостренные лацканы Застежка на пуговицы, Два накладных кармана, На подкладке Длина: 68 см, Сделано в Италии",
+      "url": "/assets/img/eee.jpg",
+      "urlOne": "/assets/img/eeeOne.jpg",
+      "urlTwo": "/assets/img/eeeTwo.jpg",
+      "isBasket": false,
+      "isLiked": 0,
+      "id": 13
+    },
+    {
+      "name": "Свитер из чистого кашемира с высоким воротником",
+      "description": "Струящиеся брюки из шелкового крепона с эластичным поясом и небольшими сборками по линии талии. Подчеркнутые однотонными горизонтальными атласными полосками, они создают сияющий, утонченный завершенный образ, если носить их с блузкой из соответствующей ткани.",
+      "price": "5340с",
+      "composition": "Состав 100%, Вискоза, Однобортный пиджак на одной пуговице, Заостренные лацканы Застежка на пуговицы, Два накладных кармана, На подкладке Длина: 68 см, Сделано в Италии",
+      "url": "/assets/img/rrr.jpg",
+      "urlOne": "/assets/img/rrrOne.jpg",
+      "urlTwo": "/assets/img/rrrTwo.jpg",
+      "isBasket": false,
+      "isLiked": 0,
+      "id": 14
+    },
+    {
+      "name": "Свитер из чистого кашемира с высоким воротником",
+      "description": "Это романтическое женственное платье из блестящей шелковой органзы и тюля изящно облегает силуэт. Его роскошная вышивка с изображением ласточек и звезд из люрексовой пряжи придает утонченность легкому мечтательному очарованию.",
+      "price": "2340с",
+      "composition": "Состав 100%, Вискоза, Однобортный пиджак на одной пуговице, Заостренные лацканы Застежка на пуговицы, Два накладных кармана, На подкладке Длина: 68 см, Сделано в Италии",
+      "url": "/assets/img/ttt.jpg",
+      "urlOne": "/assets/img/tttOne.jpg",
+      "urlTwo": "/assets/img/tttTwo.jpg",
+      "isBasket": false,
+      "isLiked": 0,
+      "id": 15
+    },
+    {
+      "name": "Свитер из чистого кашемира с высоким воротником",
+      "description": "Струящиеся брюки из шелкового крепона с эластичным поясом и небольшими сборками по линии талии. Подчеркнутые однотонными горизонтальными атласными полосками, они создают сияющий, утонченный завершенный образ, если носить их с блузкой из соответствующей ткани.",
+      "price": "3340с",
+      "composition": "Состав 100%, Вискоза, Однобортный пиджак на одной пуговице, Заостренные лацканы Застежка на пуговицы, Два накладных кармана, На подкладке Длина: 68 см, Сделано в Италии",
+      "url": "/assets/img/yyy.jpg",
+      "urlOne": "/assets/img/yyyOne.jpg",
+      "urlTwo": "/assets/img/yyyTwo.jpg",
+      "isBasket": false,
+      "isLiked": 0,
+      "id": 16
+    },
+    {
+      "name": "Свитер из чистого кашемира с высоким воротником",
+      "description": "Это романтическое женственное платье из блестящей шелковой органзы и тюля изящно облегает силуэт. Его роскошная вышивка с изображением ласточек и звезд из люрексовой пряжи придает утонченность легкому мечтательному очарованию.",
+      "price": "6420с",
+      "composition": "Состав 100%, Вискоза, Однобортный пиджак на одной пуговице, Заостренные лацканы Застежка на пуговицы, Два накладных кармана, На подкладке Длина: 68 см, Сделано в Италии",
+      "url": "/assets/img/ooo.jpg",
+      "urlOne": "/assets/img/oooOne.jpg",
+      "urlTwo": "/assets/img/oooTwo.jpg",
+      "isLiked": 0,
+      "isBasket": false,
+      "id": 17
+    },
+    {
+      "name": "Свитер из чистого кашемира с высоким воротником",
+      "description": "Это романтическое женственное платье из блестящей шелковой органзы и тюля изящно облегает силуэт. Его роскошная вышивка с изображением ласточек и звезд из люрексовой пряжи придает утонченность легкому мечтательному очарованию.",
+      "price": "5430с",
+      "composition": "Состав 100%, Вискоза, Однобортный пиджак на одной пуговице, Заостренные лацканы Застежка на пуговицы, Два накладных кармана, На подкладке Длина: 68 см, Сделано в Италии",
+      "url": "/assets/img/ppp.jpg",
+      "urlOne": "/assets/img/pppOne.jpg",
+      "urlTwo": "/assets/img/pppTwo.jpg",
+      "isBasket": false,
+      "isLiked": 0,
+      "id": 18
+    }
+  ],
+  "users": [
+    {
+      "email": "Mirlan@gmai.com",
+      "password": "$2a$10$.8nDKykdAJB/jyreZuc55eIM12mYq/WzibVbwcSXs9DltO30aRV5a",
+      "login": "Mirlan",
+      "id": 1
+    },
+    {
+      "email": "mirlan1@gmail.com",
+      "password": "$2a$10$aOhhTnHBVAw2Rc6t23HJY.8wNumiztEUrSIt0W5gWhTHqv0IaFjtK",
+      "login": "mirlan",
+      "age": "2004-02-13",
+      "gender": "man",
+      "id": 2
+    },
+    {
+      "email": "mirlan2@gmail.com",
+      "password": "$2a$10$pHvF0q5LElKAQ74HoMMyj.e6lonqBvLKWgGaZjdtSbP8oUGiVLjkO",
+      "login": "mirlan",
+      "gender": "man",
+      "age": "2004-02-13",
+      "id": 3
+    },
+    {
+      "email": "mirlan3@gmail.com",
+      "password": "$2a$10$D9zAiD6BZICB2dcPwQimzuZgZv9claH57KPtMna14olXQ/.Ho4gTy",
+      "login": "mirlan",
+      "age": "2003-02-13",
+      "gender": "man",
+      "id": 4
+    },
+    {
+      "email": "mirlan4@gmail.com",
+      "password": "$2a$10$T.L3MzuUb4LqQ3/Dj31Xkeep3lNpGRh010qilQPV65fabQtfK2VOC",
+      "login": "mirlan",
+      "age": "2004-02-13",
+      "gender": "man",
+      "id": 5
+    },
+    {
+      "email": "mirlan5@gmail.com",
+      "password": "$2a$10$kR8SsCg0ua6GKajwDuW6P.GTIkTqD5r1GlPSKLNsuvhKDH549gvKm",
+      "login": "mirlan",
+      "age": "2004-02-13",
+      "gender": "man",
+      "id": 6
+    },
+    {
+      "email": "mirlan6@gmail.com",
+      "password": "$2a$10$tBDEJa7HQU2HaaDSKFVyPOdDsnK8Xj2KRvHEIq5UReD4AbQOoiuM2",
+      "login": "mirlan",
+      "age": "2004-02-13",
+      "gender": "man",
+      "id": 7
+    },
+    {
+      "email": "mirlan7@gmail.com",
+      "password": "$2a$10$n2NYc2SF9iY2JBlybl5sne1Z/xEBBJ.ubewjskiDxo9YwMXNoWQfS",
+      "login": "mirlan",
+      "surname": "zamirbekov",
+      "age": "2004-02-13",
+      "gender": "man",
+      "id": 8
+    },
+    {
+      "email": "mirlan@mail.ru",
+      "password": "$2a$10$OgPstcpynKPJ7DXX3KEnHO0axuw30gScnLOSfMJSdm9WYVMZX5RE6",
+      "login": "frozennn",
+      "surname": "PUBG",
+      "age": "2004-02-13",
+      "gender": "man",
+      "id": 9
+    },
+    {
+      "email": "mirlan1@mail.ru",
+      "password": "$2a$10$l28wgRwqTm6v6CxwJsK0kun8psjBhuV7Ac2rTminChZAqp4vfvBMC",
+      "login": "mirlan",
+      "surname": "zamirbekov",
+      "age": "2004-02-13",
+      "gender": "female",
+      "id": 10
+    },
+    {
+      "email": "mirlan2@mail.ru",
+      "password": "$2a$10$OLL26FB5EAZML8HBEbuB2.C.9xihR5cmjyuHn1bObiUruwZAnMWE6",
+      "login": "mirlan",
+      "surname": "zamirbekov",
+      "age": "2004-02-13",
+      "gender": "male",
+      "id": 11
+    },
+    {
+      "email": "mirlan3@mail.ru",
+      "password": "$2a$10$uL/Y8yjxEXAeGESHWbsVWO3qQZOECaanNBbw403Olrrz94e99CJby",
+      "login": "mrilnamsok",
+      "surname": "laksdnvfdbfjk",
+      "age": "2004-02-13",
+      "gender": "female",
+      "id": 12
+    },
+    {
+      "email": "mirlan4@mail.ru",
+      "password": "$2a$10$8bmrxKn62tfQ9JfxwTt8RufrQXdj12MeYnYouDVCr1/xyl6THdRRG",
+      "login": "mirlan",
+      "surname": "zamirbekov",
+      "age": "2004-02-13",
+      "gender": "",
+      "number": "709263675",
+      "id": 13
+    },
+    {
+      "email": "mirlan6@mail.ru",
+      "password": "$2a$10$x7mQ0JjSy9u8JT.dkSkumefIfru/EGhleQww4n321X.xDsbsw1nLq",
+      "login": "mirlan",
+      "surname": "zamirbekov",
+      "age": "2004-02-13",
+      "gender": "Мужчина",
+      "id": 14
+    },
+    {
+      "email": "raihan@mail.ru",
+      "password": "$2a$10$ZR4/LjAkaAFf640RC4iZE.qgMGqdvy/ZEPCO.x8CaMi4NRjHyZL5i",
+      "login": "райхан",
+      "surname": "ураимова",
+      "age": "1981-04-19",
+      "gender": "Мужчина",
+      "id": 15
+    },
+    {
+      "email": "mirlan10@mail.ru",
+      "password": "$2a$10$kWPEqihHvQWIY4tl3EiOJOG3rN5cG8VhzQGSxobY53aQubqKbBo8i",
+      "login": "mirlanZZZZ",
+      "surname": "zamirbekov",
+      "age": "2004-02-13",
+      "gender": "",
+      "id": 16
+    },
+    {
+      "email": "mirlan11@gmail.com",
+      "password": "$2a$10$2xz1ce0h.FUDgDh08InmneWmjF38eIPIVSiG3eKqaD7sSsrV8hF3e",
+      "login": "mirlann",
+      "surname": "zamirbekov",
+      "age": "2003-02-13",
+      "gender": "Мужчина",
+      "id": 17
+    },
+    {
+      "email": "mirlan12@mail.ru",
+      "password": "$2a$10$uZa92m9yl3B7YhPnnXP5tOtSoKDllOsWWYYHamTfHYbr7UxhWtVN2",
+      "login": "mirlan",
+      "surname": "mirlan",
+      "age": "",
+      "gender": "Мужчина",
+      "id": 18
+    },
+    {
+      "email": "zamirbek@gmail.com",
+      "password": "$2a$10$6FmK1LhY4tTv7BRP8XOAl.iQnp6sNiVDw1Fr/xQUaHqyWGdHRyCGe",
+      "login": "mirlan",
+      "surname": "zamirbekovmirlan",
+      "gender": "Мужчина",
+      "age": "2004-02-13",
+      "id": 19
+    },
+    {
+      "email": "zamirbekov111@gmail.com",
+      "password": "$2a$10$tojARH0igR7uOFjqtQvYxOWrTttqWxDNaR868iLhl7pS8gzCRSMYW",
+      "login": "mirlan",
+      "surname": "zamirbekov",
+      "gender": "Мужчина",
+      "age": "2004-02-13",
+      "id": 20
+    },
+    {
+      "email": "zamirbekovmrirlan@gmail.com",
+      "password": "$2a$10$dYePeBLtpGe/q6eFUu5a2eSnRdN9nKMMjKRr.ye6WrVmp.twBYZ/.",
+      "login": "mirlanZ",
+      "surname": "zamirb",
+      "gender": "Мужчина",
+      "age": "2004-02-13",
+      "id": 21
+    },
+    {
+      "email": "aida@gmail.com",
+      "password": "$2a$10$nc44JoBKXZbr36L0LHpeMuigoWG9YejmhbpTwk0E3tvPVl7fVOFze",
+      "login": "MIRLAN",
+      "surname": "zamirbekov",
+      "age": "2004-02-13",
+      "gender": "Мужчина",
+      "id": 22
+    },
+    {
+      "email": "aida1@gmail.com",
+      "password": "$2a$10$730r2pIYMhwqqF76S2RM2eq1ML2DI044yHtjRXyHWvU1k4yd1aa16",
+      "login": "Mirlan",
+      "surname": "zamirbekov",
+      "age": "2004-02-13",
+      "gender": "Мужчина",
+      "id": 23
+    },
+    {
+      "email": "aida2@gmail.com",
+      "password": "$2a$10$N7tD0YdBdXNSwhYngb4NnuvkSRO8T.c6ljZ/UO8cSbvAYjMk/AQZW",
+      "login": "Mirlan",
+      "surname": "zamirbekov",
+      "age": "2004-02-13",
+      "gender": "Мужчина",
+      "id": 24
+    },
+    {
+      "email": "aida4@mail.ru",
+      "password": "$2a$10$bTKuZdTdBzxAQ/vHx8kNxO4VEyoYs2ZRCSLcbxknoQhualKcksaaG",
+      "login": "Aida",
+      "surname": "Aida",
+      "age": "2204-01-13",
+      "gender": "Мужчина",
+      "id": 25
+    },
+    {
+      "email": "mirlan22@gmail.com",
+      "password": "$2a$10$slXkqrQ62fHJKJw1lxyqtesqn45I9E2k50dqh4fL.tm/1PNOdbA6K",
+      "login": "mirlan",
+      "surname": "zamirbekov",
+      "age": "2004-02-13",
+      "gender": "",
+      "number": "072345665",
+      "id": 26
+    },
+    {
+      "email": "aida@mail.ru",
+      "password": "$2a$10$fm3J5sJZ.S3SnSxXO8yldu6nGh48S/5BuG3MAMb4NS7C6EpfYHJ0K",
+      "login": "aida",
+      "surname": "tynybekova",
+      "age": "",
+      "gender": "Женщина",
+      "number": "1234567",
+      "id": 27
+    },
+    {
+      "email": "mirlan@gmail.com",
+      "password": "$2a$10$zirNV0jTp96c9.7ZKMj3UOY8xPCNRO1rtp4nFqwhKfnUwY3U/8S0S",
+      "login": "mirlanZZ",
+      "surname": "zamirbekovMirlan",
+      "gender": "Мужчина",
+      "age": "2004-02-13",
+      "id": 28
+    },
+    {
+      "email": "mirlan2@gmail.com",
+      "password": "$2a$10$dcDX/ryVdd5Z2ZH/0pSJl.N2BA963ed5ayS6U7z9TpSSrGt/eTglS",
+      "login": "mirlanZ",
+      "surname": "zamirbekovmirlan",
+      "gender": "Мужчина",
+      "age": "2004-02-13",
+      "id": 29
+    },
+    {
+      "email": "iphone@gmail.com",
+      "password": "$2a$10$CdB4mCdOz./bXX/pH0a3sePA0GuGKUUP81Yx3Gr7Hj1.5qzdP24Ye",
+      "login": "mirlan",
+      "surname": "zamirbekov",
+      "age": "2004-02-13",
+      "gender": "Мужчина",
+      "number": "098765432",
+      "id": 30
+    },
+    {
+      "email": "emirchik@gmail.com",
+      "password": "$2a$10$LUif7jAZKd6xYgWGsykn1uU2i/7xB.E7sFNqC5snha9B6K49wPm.u",
+      "login": "mirlan",
+      "surname": "zamirbekov",
+      "age": "2004-02-13",
+      "gender": "",
+      "number": "0709263684",
+      "id": 31
+    }
+  ],
+  "response": [
+    {
+      "id": 1,
+      "userName": "mirlan",
+      "userEmail": "zamirbekovmirlan@gmail.com",
+      "userText": "hello world"
+    },
+    {
+      "id": 2,
+      "userName": "frznnn",
+      "userEmail": "zamirbekovmirlan1@gmail.com",
+      "userText": "qwerty"
+    },
+    {
+      "userName": "mirlan",
+      "userEmail": "zamirbekovmirlan1@gmail.com",
+      "userText": "qwerty",
+      "id": 3
+    },
+    {
+      "userName": "mirkan",
+      "userEmail": "zamirbekovmirlan2@gmail.com",
+      "userText": "waskdojivbhdjeiofsijkx",
+      "id": 4
+    },
+    {
+      "userName": "Mirlan",
+      "userEmail": "zamirbekovmirlan@gmail.com",
+      "userText": "qwertyuiop[",
+      "id": 5
+    },
+    {
+      "userName": "mirlan",
+      "userEmail": "zamirbekovmirlan@gmail.com",
+      "userText": "i wanna talking about myself",
+      "id": 6
+    },
+    {
+      "userName": "mirlan",
+      "userEmail": "zamirbekovmirlan@gmail.com",
+      "userText": "qwerty",
+      "id": 7
+    },
+    {
+      "userName": "mirlan",
+      "userEmail": "zamirbekovmirlan1@gmail.com",
+      "userText": "qwerty",
+      "id": 8
+    },
+    {
+      "userName": "mirlannn",
+      "userEmail": "zamirbekovmirlan2@gmail.com",
+      "userText": "qwertyMIRLAN",
+      "id": 9
+    },
+    {
+      "userName": "zamirbekovmirlan@gmail.com",
+      "userEmail": "zamirbekovmirlan2@gmail.com",
+      "userText": "zamirbekovmirlan@gmail.com",
+      "id": 10
+    },
+    {
+      "userName": "mirlan",
+      "userEmail": "zamirbekovmirlan@gmail.com",
+      "userText": "qwerty",
+      "id": 11
+    },
+    {
+      "userName": "mirlan",
+      "userEmail": "zamirbekovmirlan2@gmail.com",
+      "userText": "qwerty",
+      "id": 12
+    },
+    {
+      "userName": "zamirbekovmirlan2@gmail.com",
+      "userEmail": "zamirbekovmirlan@gmail.com",
+      "userText": "zamirbekovmirlan2@gmail.com",
+      "id": 13
+    },
+    {
+      "userName": "FRZNN",
+      "userEmail": "zamirbekovmirlan1@gmail.com",
+      "userText": "привте мирлааннн",
+      "id": 14
+    },
+    {
+      "userName": "mirlan",
+      "userEmail": "zamirbekovmirlan@gmail.com",
+      "userText": "qwerty",
+      "id": 15
+    },
+    {
+      "userName": "mirlann",
+      "userEmail": "mirlan@gmail.com",
+      "userText": "как дела",
+      "userNumber": "709263684",
+      "id": 16
+    },
+    {
+      "userName": "mirlann",
+      "userEmail": "mirlann1@gmail.com",
+      "userText": "qwerty",
+      "userNumber": "709263684",
+      "id": 17
+    },
+    {
+      "userName": "wdsfgf",
+      "userEmail": "mirlan12@mail.ru",
+      "userText": "qwerty",
+      "userNumber": "123456789",
+      "id": 18
+    },
+    {
+      "userName": "mirlan",
+      "userEmail": "zamirbekov@mail.ru",
+      "userText": "qwertyMIRLANNNNN",
+      "userNumber": "0709263684",
+      "id": 19
+    },
+    {
+      "userName": "mirlann",
+      "userEmail": "zamirbekov1@gmail.com",
+      "userText": "qwertyu",
+      "userNumber": "0709263684",
+      "id": 20
+    },
+    {
+      "userName": "mirlan",
+      "userEmail": "zamirbekov18@gmail.com",
+      "userText": "qwerty",
+      "id": 21
+    },
+    {
+      "userName": "mrialdsnlcm",
+      "userEmail": "mirlan2@gmail.com",
+      "userText": "qwfvcknlnm",
+      "userNumber": "123454321",
+      "id": 22
+    },
+    {
+      "userName": "mirlan",
+      "userEmail": "mirlan2@gmail.com",
+      "userText": "qwertyu",
+      "id": 23
+    },
+    {
+      "userName": "aida ",
+      "userEmail": "aida@mail.ru",
+      "userText": "qwerty",
+      "userNumber": "1234565432",
+      "id": 24
+    },
+    {
+      "userName": "mirlan",
+      "userEmail": "mirlan@gmail.com",
+      "userText": "qwerty",
+      "userNumber": "123456789",
+      "id": 25
+    },
+    {
+      "userName": "qwsdd",
+      "userEmail": "mirlan@gmail.com",
+      "userText": "qwerty",
+      "userNumber": "12345678",
+      "id": 26
+    },
+    {
+      "userName": "mirlan",
+      "userEmail": "mitlan@gmail.com",
+      "userText": "werty",
+      "userNumber": "12345432",
+      "id": 27
+    },
+    {
+      "userName": "mirlan",
+      "userEmail": "mirlan2@mail.ru",
+      "userText": "qwerty",
+      "userNumber": "0709263684",
+      "id": 28
+    },
+    {
+      "userName": "mirlan",
+      "userEmail": "zamirbekovmirlan@gmail.com",
+      "userText": "qwerty",
+      "id": 29
+    },
+    {
+      "userName": "mirlann",
+      "userEmail": "mirlann@mail.ru",
+      "userText": "tghcvfruifg",
+      "userNumber": "1234567890",
+      "id": 30
+    },
+    {
+      "userName": "mirlan",
+      "userEmail": "zamirbekovmirlan@gmail.com",
+      "userText": "qwerty",
+      "id": 31
+    },
+    {
+      "userName": "mirlann",
+      "userEmail": "mirlan@gmail.com",
+      "userText": "dsfvrrsgdfxcojiohsjcx",
+      "userNumber": "123455432",
+      "id": 32
+    }
+  ],
+  "newletter": [
+    {
+      "id": 1,
+      "userEmail": "zamirbekov@mail.com",
+      "userGender": "мужской"
+    },
+    {
+      "userEmail": "zamirbekov@mail.ru",
+      "userGender": "Мужчина",
+      "id": 2
+    },
+    {
+      "userEmail": "mirlan@mail.ru",
+      "userGender": "Мужчина",
+      "id": 3
+    },
+    {
+      "userEmail": "mirlan33@mail.ru",
+      "userGender": "Мужчина",
+      "id": 4
+    },
+    {
+      "userEmail": "mirlan4@mail.ru",
+      "userGender": "Мужчина",
+      "id": 5
+    },
+    {
+      "userEmail": "zamirbekov18@mail.ru",
+      "userGender": "Мужчина",
+      "id": 6
+    },
+    {
+      "userEmail": "MIRLAN@mail.com",
+      "userGender": "Мужчина",
+      "id": 7
+    },
+    {
+      "userEmail": "mirlan3@mail.ru",
+      "userGender": "Мужчина",
+      "id": 8
+    },
+    {
+      "userEmail": "mirlan3@mail.ru",
+      "userGender": "Мужчина",
+      "id": 9
+    },
+    {
+      "userEmail": "mirlan3@mail.ru",
+      "userGender": "Мужчина",
+      "id": 10
+    },
+    {
+      "userEmail": "mirlan3@mail.ru",
+      "userGender": "Мужчина",
+      "id": 11
+    },
+    {
+      "userEmail": "mirlan3@mail.ru",
+      "userGender": "Мужчина",
+      "id": 12
+    },
+    {
+      "userEmail": "mirlan3@mail.ru",
+      "userGender": "Мужчина",
+      "id": 13
+    },
+    {
+      "userEmail": "mirlan3@mail.ru",
+      "userGender": "Мужчина",
+      "id": 14
+    },
+    {
+      "userEmail": "mirlan3@mail.ru",
+      "userGender": "Мужчина",
+      "id": 15
+    },
+    {
+      "userEmail": "mirlan3@mail.ru",
+      "userGender": "Мужчина",
+      "id": 16
+    },
+    {
+      "userEmail": "mirlan99@gmail.com",
+      "userGender": "Мужчина",
+      "id": 17
+    },
+    {
+      "userEmail": "mirlan99@gmail.com",
+      "userGender": "Мужчина",
+      "id": 18
+    },
+    {
+      "userEmail": "mirlan99@gmail.com",
+      "userGender": "Мужчина",
+      "id": 19
+    },
+    {
+      "userEmail": "mirlan99@gmail.com",
+      "userGender": "Мужчина",
+      "id": 20
+    },
+    {
+      "userEmail": "mirlan99@gmail.com",
+      "userGender": "Мужчина",
+      "id": 21
+    },
+    {
+      "userEmail": "mirlan17@gmai.com",
+      "userGender": "Мужчина",
+      "id": 22
+    },
+    {
+      "userEmail": "mirlan17@gmai.com",
+      "userGender": "Мужчина",
+      "id": 23
+    },
+    {
+      "userEmail": "mirlan17@gmai.com",
+      "userGender": "Мужчина",
+      "id": 24
+    },
+    {
+      "userEmail": "mirlan17@gmai.com",
+      "userGender": "Мужчина",
+      "id": 25
+    },
+    {
+      "userEmail": "mirlan17@gmai.com",
+      "userGender": "Мужчина",
+      "id": 26
+    },
+    {
+      "userEmail": "mirlan17@gmai.com",
+      "userGender": "Мужчина",
+      "id": 27
+    },
+    {
+      "userEmail": "mirlan17@gmai.com",
+      "userGender": "Мужчина",
+      "id": 28
+    },
+    {
+      "userEmail": "mirlan17@gmai.com",
+      "userGender": "Мужчина",
+      "id": 29
+    },
+    {
+      "userEmail": "mirlan17@gmai.com",
+      "userGender": "Мужчина",
+      "id": 30
+    },
+    {
+      "userEmail": "mirlan17@gmai.com",
+      "userGender": "Мужчина",
+      "id": 31
+    },
+    {
+      "userEmail": "mirlan33@mail.ru",
+      "userGender": "Мужчина",
+      "id": 32
+    },
+    {
+      "userEmail": "mirlan33@mail.ru",
+      "userGender": "Мужчина",
+      "id": 33
+    },
+    {
+      "userEmail": "mirlan33@mail.ru",
+      "userGender": "Мужчина",
+      "id": 34
+    },
+    {
+      "userEmail": "mirlan33@mail.ru",
+      "userGender": "Мужчина",
+      "id": 35
+    },
+    {
+      "userEmail": "mirlan33@mail.ru",
+      "userGender": "Мужчина",
+      "id": 36
+    },
+    {
+      "userEmail": "mirlan33@mail.ru",
+      "userGender": "Мужчина",
+      "id": 37
+    },
+    {
+      "userEmail": "mirlan33@mail.ru",
+      "userGender": "Мужчина",
+      "id": 38
+    },
+    {
+      "userEmail": "aida@gmail.com",
+      "userGender": "Мужчина",
+      "id": 39
+    },
+    {
+      "userEmail": "aida@gmail.com",
+      "userGender": "Мужчина",
+      "id": 40
+    },
+    {
+      "userEmail": "aida@gmail.com",
+      "userGender": "Мужчина",
+      "id": 41
+    },
+    {
+      "userEmail": "aida@gmail.com",
+      "userGender": "Мужчина",
+      "id": 42
+    },
+    {
+      "userEmail": "aida@gmail.com",
+      "userGender": "Мужчина",
+      "id": 43
+    },
+    {
+      "userEmail": "aida@gmail.com",
+      "userGender": "Мужчина",
+      "id": 44
+    },
+    {
+      "userEmail": "eliza@gmail.com",
+      "userGender": "Мужчина",
+      "id": 45
+    },
+    {
+      "userEmail": "eliza@gmail.com",
+      "userGender": "Мужчина",
+      "id": 46
+    },
+    {
+      "userEmail": "mirlan111@mail.ru",
+      "userGender": "Мужчина",
+      "id": 47
+    },
+    {
+      "userEmail": "aida@gmail.com",
+      "userGender": "Мужчина",
+      "id": 48
+    },
+    {
+      "userEmail": "aida1111@gmail.com",
+      "userGender": "Мужчина",
+      "id": 49
+    },
+    {
+      "userEmail": "aida1111@gmail.com",
+      "userGender": "Мужчина",
+      "id": 50
+    },
+    {
+      "userEmail": "aida1111@gmail.com",
+      "userGender": "Мужчина",
+      "id": 51
+    },
+    {
+      "userEmail": "aida1111@gmail.com",
+      "userGender": "Мужчина",
+      "id": 52
+    },
+    {
+      "userEmail": "aida1111@gmail.com",
+      "userGender": "Мужчина",
+      "id": 53
+    },
+    {
+      "userEmail": "minu@gmail.com",
+      "userGender": "Мужчина",
+      "id": 54
+    },
+    {
+      "userEmail": "minu@gmail.com",
+      "userGender": "Мужчина",
+      "id": 55
+    },
+    {
+      "userEmail": "minu@gmail.com",
+      "userGender": "Мужчина",
+      "id": 56
+    },
+    {
+      "userEmail": "minu@gmail.com",
+      "userGender": "Мужчина",
+      "id": 57
+    },
+    {
+      "userEmail": "minu1@mail.ru",
+      "userGender": "Мужчина",
+      "id": 58
+    },
+    {
+      "userEmail": "minu1@mail.ru",
+      "userGender": "Мужчина",
+      "id": 59
+    },
+    {
+      "userEmail": "minu1@mail.ru",
+      "userGender": "Мужчина",
+      "id": 60
+    },
+    {
+      "userEmail": "minu1@mail.ru",
+      "userGender": "Мужчина",
+      "id": 61
+    },
+    {
+      "userEmail": "minu1@mail.ru",
+      "userGender": "Мужчина",
+      "id": 62
+    },
+    {
+      "userEmail": "mirlan3@gmail.com",
+      "userGender": "Мужчина",
+      "id": 63
+    },
+    {
+      "userEmail": "mirlan3@gmail.com",
+      "userGender": "Мужчина",
+      "id": 64
+    },
+    {
+      "userEmail": "mirlan3@gmail.com",
+      "userGender": "Мужчина",
+      "id": 65
+    },
+    {
+      "userEmail": "zamirbekovmirlan16@gmail.com",
+      "userGender": "Мужчина",
+      "id": 66
+    },
+    {
+      "userEmail": "mirlann",
+      "userGender": "Мужчина",
+      "id": 67
+    },
+    {
+      "userEmail": "mirlannn",
+      "userGender": "Мужчина",
+      "id": 68
+    },
+    {
+      "userEmail": "mirlan",
+      "userGender": "Мужчина",
+      "id": 69
+    },
+    {
+      "userEmail": "zamirbekovmirl",
+      "userGender": "Мужчина",
+      "id": 70
+    },
+    {
+      "userEmail": "mirlannn@gmail.com",
+      "userGender": "",
+      "id": 71
+    },
+    {
+      "userEmail": "zamirbekovmirlan16@gmail.com",
+      "userGender": "",
+      "id": 72
+    },
+    {
+      "userEmail": "zamirbekovmirlan19@gmail.com",
+      "userGender": "Мужчина",
+      "id": 73
+    },
+    {
+      "userEmail": "zamirbekovmirlan19@gmail.com",
+      "userGender": "",
+      "id": 74
+    },
+    {
+      "userEmail": "zamirbekovmirlan16@gmail.com",
+      "userGender": "",
+      "id": 75
+    },
+    {
+      "userEmail": "zamirbekovmirlan16@gmail.com",
+      "userGender": "Мужчина",
+      "id": 76
+    },
+    {
+      "userEmail": "mirlan3@gmail.com",
+      "userGender": "Мужчина",
+      "id": 77
+    }
+  ]
+}

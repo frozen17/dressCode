@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: AktivGrotesk-Regular;
+}
+.logined-user{
+    text-align: center;
+    font-family: AktivGrotesk-Regular;
+    text-transform: none;
+    font-size: 1.800rem;
+    letter-spacing: .25rem;
+    line-height: 1.2;
+    margin: 45px 0;
+}
+.profile-page{
+    font-size: .980rem;
+    letter-spacing: .025rem;
+    padding: 0px 0 30px 0;
+    font-style: inherit;
+    font-weight: inherit;
+}
+.required-input{
+    text-align: end;
+    margin: 0 200px 30px 0;
+}
+.onlyInputs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.input-text{
+    width: 40%;
+    margin-bottom: 40px !important;
+}
