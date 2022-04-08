@@ -14,7 +14,7 @@ import './Explore.css';
 
 
 const fetchData = (id) => {
-  return axios.get(`http://localhost:3004/items/${id}`).then((res) => res.data);
+  return axios.get(`https://hpap.herokuapp.com/${id}`).then((res) => res.data);
 };
 
 const Explore = (props) => {
@@ -41,7 +41,7 @@ const Explore = (props) => {
     isBasket
   ) => {
     e.preventDefault();
-    await axios.put(`http://localhost:3004/items/${id}`, {
+    await axios.put(`https://hpap.herokuapp.com/${id}`, {
       name,
       description,
       price,
@@ -73,7 +73,7 @@ const Explore = (props) => {
     isBasket
   ) => {
     e.preventDefault();
-    await axios.put(`http://localhost:3004/items/${id}`, {
+    await axios.put(`https://hpap.herokuapp.com/${id}`, {
       name,
       description,
       price,
@@ -93,7 +93,7 @@ const Explore = (props) => {
 
   const handleComplete = async(e, id, name, description, price, composition, url, urlOne, urlTwo, urlThree, urlFour, isLiked) => {
     e.preventDefault()
-      await axios.put(`http://localhost:3004/items/${id}`, {
+      await axios.put(`https://hpap.herokuapp.com/${id}`, {
         name,
         description,
         price,
@@ -113,7 +113,7 @@ const Explore = (props) => {
 
   const handleNoneComplete = async(e, id, name, description, price, composition, url, urlOne, urlTwo, urlThree, urlFour, isLiked) => {
     e.preventDefault()
-    await axios.put(`http://localhost:3004/items/${id}`, {
+    await axios.put(`https://hpap.herokuapp.com/${id}`, {
       name,
       description,
       price,

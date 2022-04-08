@@ -27,7 +27,7 @@ import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart'
 
 const fetchData = () => {
   return axios
-    .get(`https://hpap.herokuapp.com/home/api`)
+    .get(`https://hpap.herokuapp.com/api`)
     .then((response) => response.data);
 };
 
@@ -49,7 +49,7 @@ const Shop = () => {
 
 const handleComplete = async(e, id, name, description, price, composition, url, urlOne, urlTwo, urlThree, urlFour, isLiked) => {
   e.preventDefault()
-    await axios.put(`http://localhost:3004/items/${id}`, {
+    await axios.put(`https://hpap.herokuapp.com/${id}`, {
       name,
       description,
       price,
@@ -68,7 +68,7 @@ const handleComplete = async(e, id, name, description, price, composition, url, 
 
 const handleNoneComplete = async(e, id, name, description, price, composition, url, urlOne, urlTwo, urlThree, urlFour, isLiked) => {
   e.preventDefault()
-  await axios.put(`http://localhost:3004/items/${id}`, {
+  await axios.put(`https://hpap.herokuapp.com/${id}`, {
     name,
     description,
     price,
@@ -87,7 +87,7 @@ const handleNoneComplete = async(e, id, name, description, price, composition, u
 
 const handleChangeColor = async(e, id, name, description, price, composition, url, urlOne, urlTwo, urlThree, urlFour, isBasket) => {
   e.preventDefault()
-  await axios.put(`http://localhost:3004/items/${id}`, {
+  await axios.put(`https://hpap.herokuapp.com/${id}`, {
     name,
     description,
     price,
@@ -106,7 +106,7 @@ const handleChangeColor = async(e, id, name, description, price, composition, ur
 
 const handleRemoveColor = async(e, id, name, description, price, composition, url, urlOne, urlTwo, urlThree, urlFour, isBasket) => {
   e.preventDefault()
-  await axios.put(`http://localhost:3004/items/${id}`, {
+  await axios.put(`https://hpap.herokuapp.com/${id}`, {
     name,
     description,
     price,
